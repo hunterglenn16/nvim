@@ -14,4 +14,7 @@ return {
     -- Keymap to retrieve the venv from a cache (the one previously used for the same project directory).
     { '<leader>vc', '<cmd>VenvSelectCached<cr>' },
   },
+  {
+    "sharkdp/fd",
+  },
 }
