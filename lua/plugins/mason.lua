@@ -4,6 +4,7 @@ return {
     ensure_installed = {
       "python-lsp-server",
       "debugpy",
+      "clangd",
     },
   },
 }
