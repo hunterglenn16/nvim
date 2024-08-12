@@ -5,6 +5,8 @@ return {
       "python-lsp-server",
       "debugpy",
       "clangd",
+      "htmx-lsp",
+      "htmx-lsp",
     },
   },
 }
