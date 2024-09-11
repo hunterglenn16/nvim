@@ -1,4 +1,4 @@
-# 💤 LazyVim
+# 💤 LazyVim hunterglenn16's Custom Setup
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+lazy vim with custom plugins primarly used for python.
+This is a work in progress, file structure likely to change.
