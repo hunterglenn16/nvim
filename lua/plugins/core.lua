@@ -1,6 +1,8 @@
 return {
   { "nvim-telescope/telescope.nvim" },
 
+  { "mfussenegger/nvim-dap" },
+
   { "Bekaboo/deadcolumn.nvim" },
 
   {
